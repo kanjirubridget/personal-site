@@ -1,0 +1,30 @@
+.top-container{
+  background-color: #66BFBF;
+  border-style: solid;
+  margin-left: 10px;
+  height: 250px;
+  width: 250px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.middle-container{
+  background-color: #54BAB9;
+  border-style: inset;
+  margin-left: 260px;
+  height: 250px;
+  width: 250px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bottom-container{
+  background-color: #9DD6DF;
+  border-style: inset;
+  margin-left: 510px;
+  height: 250px;
+  width: 250px;
+}
+
+h1{
+  margin: 0
+}
+p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

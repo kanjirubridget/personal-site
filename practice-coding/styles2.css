@@ -1,0 +1,42 @@
+.education{
+    background-color: #66bfbf;
+    border-style: inset;
+    padding-left: 10px;
+    margin: auto 200px auto 200px;
+}
+.hobbies{
+    background-color: aqua;
+    border-style: inset;
+    padding-left: 10px;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.myBestCars{
+    background-color: cyan;
+    border-style: inset;
+    padding-left: 10px;
+    margin: auto 200px auto 200px;
+}
+img{
+    background-color: dodgerblue;
+    height: 250px;
+    width: 250px;
+    margin: auto 200px auto 200px;
+}
+h1{
+    color: #66bfbf;
+}
+.Friends{
+    display: inline;
+}
+
+span{
+    display: block;
+}
+h4{
+    display: inline;
+}
+body{
+    text-align: center;
+}

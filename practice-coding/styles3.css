@@ -1,0 +1,23 @@
+.Officialname{
+    background-color: #ABC9FF;
+    position: relative;
+    width: 120px;
+    height: 120px;
+}
+.Favoritename{
+    background-color: rgb(43, 156, 226);
+    position: absolute;
+    left: 243px;
+    bottom: 333px;
+    width: 120px;
+    height: 120px;
+
+}
+.Fictionalname{
+    background-color: rgb(105, 173, 255);
+    position: absolute;
+    left: 125px;
+    bottom: 450px;
+    width: 120px;
+    height: 120px;
+}
